@@ -1,4 +1,12 @@
-pros.android-studio
+proj.win*
+
+proj.win32
+
+proj.tizen
+
+proj.linux
+
+proj.android-studio
 
 cocos2d
 
